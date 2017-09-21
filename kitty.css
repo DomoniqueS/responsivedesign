@@ -1,27 +1,23 @@
+
 @media only screen and (min-width:1400px) {
-	.reg
+	img {
 	content:url(images/kitten-large.png);
 	}
 
 }
 @media only screen and (min-width:1300px) {
-	.reg
+	img{
 	content:url(images/kitten-large.png);
 	}
 }
 @media only screen and (min-width:1000px) {
-	.reg
+	img {
 	content:url(images/kitten-large.png);
 	}
 }
 
 @media only screen and (min-width:900px) {
-	.reg
-	content:url(images/kitten-large.png);
-	}
-}
-@media only screen and (min-width:900px) {
-	.reg
+	img {
 	content:url(images/kitten-large.png);
 	}
 }
