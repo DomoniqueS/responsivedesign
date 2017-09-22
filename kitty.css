@@ -2,7 +2,9 @@
 	img {
 	content:url(images/kitten-small.png);
 	}
-
+	body{
+	background-image:url(images/gif-12.gif);
+}
 }
 @media only screen and (min-width:680px) {
 	img{
@@ -15,8 +17,8 @@
 	content:url(images/kitten-large.png);
 	}
 }
-@media only screen and (min-width:650px) {
-	.loaf{
+@media only screen and (min-width:600px) {
+	div{
 	content:url(images/kttyloaf.gif);
 	}
 }
