@@ -1,8 +1,3 @@
-@media only screen and (min-width:322px) {
-	img {
-	content:url(https://user-images.githubusercontent.com/28358543/30766708-c10925b8-9fab-11e7-8d87-265810f241e6.png);
-	}
-}
 
 @media only screen and (min-width:250px) {
 	img {
@@ -24,3 +19,8 @@
 	div{
 	content:url(https://user-images.githubusercontent.com/28358543/30766764-2ae6974a-9fac-11e7-9);
 	}		
+@media only screen and (min-width:700px) {
+	img {
+	content:url(https://user-images.githubusercontent.com/28358543/30766708-c10925b8-9fab-11e7-8d87-265810f241e6.png);
+	}
+}
