@@ -19,7 +19,7 @@
 	div{
 	content:url(https://user-images.githubusercontent.com/28358543/30766764-2ae6974a-9fac-11e7-9afb-75df72e9e6c5.gif);
 	}			
-@media only screen and (min-width:599px) {
+@media only screen and (min-width:500px) {
 	img{
 	content:url(https://user-images.githubusercontent.com/28358543/30766708-c10925b8-9fab-11e7-8d87-265810f241e6.png);
 	}
