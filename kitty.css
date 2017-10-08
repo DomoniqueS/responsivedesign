@@ -1,3 +1,9 @@
+@media only screen and (min-width:322px) {
+	img {
+	content:url(https://user-images.githubusercontent.com/28358543/30766708-c10925b8-9fab-11e7-8d87-265810f241e6.png);
+	}
+}
+
 @media only screen and (min-width:250px) {
 	img {
 	content:url(https://user-images.githubusercontent.com/28358543/30766751-0d8c13dc-9fac-11e7-80ab-70d18cfdd659.png);
@@ -18,8 +24,3 @@
 	div{
 	content:url(https://user-images.githubusercontent.com/28358543/30766764-2ae6974a-9fac-11e7-9);
 	}		
-@media only screen and (min-width:900px) {
-	img {
-	content:url(https://user-images.githubusercontent.com/28358543/30766708-c10925b8-9fab-11e7-8d87-265810f241e6.png);
-	}
-}
