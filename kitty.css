@@ -7,6 +7,11 @@
 	background-image:url(https://user-images.githubusercontent.com/28358543/30766793-66e9393c-9fac-11e7-8d54-0d0c4240f4c2.gif);
 }
 }
+@media only screen and (min-width:400px) {
+	div{
+	content:url(https://user-images.githubusercontent.com/28358543/30766764-2ae6974a-9fac-11e7-9afb-75df72e9e6c5.gif);
+	}		
+
 @media only screen and (min-width:600px) {
 	img{
 	content:url(https://user-images.githubusercontent.com/28358543/30766739-f1b3e1e4-9fab-11e7-9a07-6ed12caf53e9.png);
@@ -23,7 +28,4 @@
 	background-image:url(https://user-images.githubusercontent.com/28358543/31319848-3bcba896-ac1f-11e7-82e7-1ccf02b39f76.gif);
 }
 }
-@media only screen and (min-width:400px) {
-	div{
-	content:url(https://user-images.githubusercontent.com/28358543/30766764-2ae6974a-9fac-11e7-9afb-75df72e9e6c5.gif);
-	}		
+
